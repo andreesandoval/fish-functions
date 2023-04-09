@@ -1,4 +1,4 @@
-function upgradify --description 'Upgrade all brew packages and phive'
+function upgradify --description 'Upgrade all Homebrew packages and PHIVE'
   brew update;
   brew upgrade;
   brew cleanup;
