@@ -1,3 +1,3 @@
-function fuckit --description 'alias fuckit=rm -rf'
+function fuckit --description 'alias rm -rf'
   sudo rm -rf $argv
 end
